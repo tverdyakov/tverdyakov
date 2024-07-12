@@ -42,7 +42,8 @@
 ---
 <h1>
    <img src="https://media.tenor.com/Zb_1QeHyHBAAAAAi/hva-hogeschool-van-amsterdam.gif" width="45px"/>
-   Портфолио. Выполненые задания по программе обучения.
+   Выполненые задания по программе обучения
+   <img src="https://media.tenor.com/Zb_1QeHyHBAAAAAi/hva-hogeschool-van-amsterdam.gif" width="45px"/>
  </h1>
  
 <details>
