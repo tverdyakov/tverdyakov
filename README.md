@@ -238,10 +238,10 @@
 </details>
 
 ### Свидетельства об обучении
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/0.0.png" width="490" height="346"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/3.0.png" width="490" height="346"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/4.0.png" width="490" height="346"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/7.0%20-%208.0.png" width="490" height="346"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/0.0.png" width="400" height="282"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/3.0.png" width="400" height="282"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/4.0.png" width="400" height="282"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/7.0%20-%208.0.png" width="400" height="282"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/9.0.png" width="490" height="346"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/6.0.png" width="490" height="346"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/5.0.png" width="490" height="346"/>&nbsp;
