@@ -43,7 +43,6 @@
 <h1>
    <img src="https://media.tenor.com/Zb_1QeHyHBAAAAAi/hva-hogeschool-van-amsterdam.gif" width="45px"/>
    Выполненые задания по программе обучения
-   <img src="https://media.tenor.com/Zb_1QeHyHBAAAAAi/hva-hogeschool-van-amsterdam.gif" width="45px"/>
  </h1>
  
 <details>
@@ -224,9 +223,8 @@
 
 <div id="header" align="center">   
 <h1>
-   <img src="https://media.tenor.com/N78AH88dehkAAAAi/certificate-icon.gif" width="45px"/>
+   <img src="https://media.tenor.com/XhmCXSDrE68AAAAj/i-have-the-proclamation-hunter-engel.gif" width="50px"/>
    Документы подтверждающие мои навыки
-   <img src="https://media.tenor.com/N78AH88dehkAAAAi/certificate-icon.gif" width="45px"/>
  </h1>
 
 ### Диплом
