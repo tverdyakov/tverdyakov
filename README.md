@@ -220,7 +220,7 @@
 <div id="header" align="center">  
 <h2>
    <img src="https://media.tenor.com/XhmCXSDrE68AAAAj/i-have-the-proclamation-hunter-engel.gif" width="50px"/>
-   Документы подтверждающие мои навыки.
+   Документы, подтверждающие мои навыки.
  </h2>
 
 ### Диплом
