@@ -216,8 +216,7 @@
 </details>
 
 ### [Дипломная работа](https://github.com/tverdyakov/diplom_tverdyakov-sys-20/blob/main/README.md)
-
-<div id="header" align="center">   
+ 
 <h2>
    <img src="https://media.tenor.com/XhmCXSDrE68AAAAj/i-have-the-proclamation-hunter-engel.gif" width="50px"/>
    Документы подтверждающие мои навыки
@@ -248,4 +247,3 @@
 
 # Спасибо за внимание! Хорошего дня!
 
-</div>
