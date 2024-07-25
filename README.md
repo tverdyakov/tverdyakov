@@ -1,7 +1,7 @@
-<h2>
+<h1>
    Привет!
    <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-saudação.gif" width="45px"/>
- </h2>
+ </h1>
  
 *Меня зовут Михаил и я ищу вакансию на должность специалиста технической поддержки.*
 
