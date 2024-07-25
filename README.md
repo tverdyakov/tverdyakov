@@ -1,13 +1,13 @@
-<h1>
+<h2>
    Привет!
    <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-saudação.gif" width="45px"/>
- </h1>
+ </h2>
  
 *Меня зовут Михаил и я ищу вакансию на должность специалиста технической поддержки.*
 
 *На этой странице есть моё портфолио с выполненными заданиями по [программе обучения](https://netology.ru/programs/sysadmin#/lessons) и дипломной работой, а также сертификаты и диплом, подтверждающие мои знания и образование.*
  
-# Технологии и навыки, полученные в процессе обучения.
+## Технологии и навыки, полученные в процессе обучения.
 <div>
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/00%20Virtualbox_logo.png" title="Virtualbox" alt="Virtualbox" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/01%20Linux.png" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
@@ -39,9 +39,7 @@
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/26%20PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;  
 </div>
 
----
-
-# Выполненые задания по программе обучения
+## Выполненые задания по программе обучения
 
 <details>
 <summary>Модуль №01. IT-системы и операционная система Linux Linux</summary>
@@ -220,10 +218,10 @@
 ### [Дипломная работа](https://github.com/tverdyakov/diplom_tverdyakov-sys-20/blob/main/README.md)
 
 <div id="header" align="center">   
-<h1>
+<h2>
    <img src="https://media.tenor.com/XhmCXSDrE68AAAAj/i-have-the-proclamation-hunter-engel.gif" width="50px"/>
    Документы подтверждающие мои навыки
- </h1>
+ </h2>
 
 ### Диплом
 <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Diploma/1.png" width="700" height="495"/>&nbsp;
