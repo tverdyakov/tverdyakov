@@ -7,8 +7,9 @@
 
 *На этой странице есть моё портфолио с выполненными заданиями по [программе обучения](https://netology.ru/programs/sysadmin#/lessons) и дипломной работой, а также сертификаты и диплом, подтверждающие мои знания и образование.*
 
-# Технологии и навыки, полученные в процессе обучения.
 <div id="header" align="center">
+   
+# Технологии и навыки, полученные в процессе обучения.
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/00%20Virtualbox_logo.png" title="Virtualbox" alt="Virtualbox" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/01%20Linux.png" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/02%20Debian.png" title="Debian" alt="Debian" width="60" height="60"/>&nbsp;
