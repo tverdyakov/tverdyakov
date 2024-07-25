@@ -41,11 +41,8 @@
 
 ---
 
-<h1>
-   <img src="https://media.tenor.com/Zb_1QeHyHBAAAAAi/hva-hogeschool-van-amsterdam.gif" width="45px"/>
-   Выполненые задания по программе обучения
- </h1>
- 
+# Выполненые задания по программе обучения
+
 <details>
 <summary>Модуль №01. IT-системы и операционная система Linux Linux</summary>
   
