@@ -9,25 +9,25 @@
 
 # Технологии и навыки, полученные в процессе обучения.
 <div>
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/00%20Virtualbox_logo.png" title="Virtualbox" alt="Virtualbox" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/01%20Linux.png" title="Linux" alt="Linux" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/02%20Debian.png" title="Debian" alt="Debian" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/03%20Bash.png" title="Bash" alt="Bash" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/04%20TCP.IP.png" title="TCP.IP" alt="TCP.IP" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/05%20Wireshark.jpg" title="Wireshark" alt="Wireshark" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/00%20Virtualbox_logo.png" title="Virtualbox" alt="Virtualbox" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/01%20Linux.png" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/02%20Debian.png" title="Debian" alt="Debian" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/03%20Bash.png" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/04%20TCP.IP.png" title="TCP.IP" alt="TCP.IP" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/05%20Wireshark.jpg" title="Wireshark" alt="Wireshark" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/06%20Cisco.png" title="Cisco" alt="Cisco" width="60" height="32"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/07%20Yandex%20Cloud.png" title="Yandex" alt="Yandex" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/08%20Qemu.png" title="Qemu" alt="Qemu" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/09%20Docker.png" title="Docker" alt="Docker" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/10%20Kubernetes.png" title="Kubernetes" alt="Kubernetes" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/11%20Ansible.png" title="Ansible" alt="Ansible" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/12%20Terraform.png" title="Terraform" alt="Terraform" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/13%20GitHub.png" title="GitHub" alt="GitHub" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/14%20Jenkins.png" title="Jenkins" alt="Jenkins" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/15%20Zabbix.png" title="Zabbix" alt="Zabbix" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/16%20Prometheus.png" title="Prometheus" alt="Prometheus" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/17%20Grafana.png" title="Grafana" alt="Grafana" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/18%20Redis.png" title="Redis" alt="Redis" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/07%20Yandex%20Cloud.png" title="Yandex" alt="Yandex" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/08%20Qemu.png" title="Qemu" alt="Qemu" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/09%20Docker.png" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/10%20Kubernetes.png" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/11%20Ansible.png" title="Ansible" alt="Ansible" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/12%20Terraform.png" title="Terraform" alt="Terraform" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/13%20GitHub.png" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/14%20Jenkins.png" title="Jenkins" alt="Jenkins" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/15%20Zabbix.png" title="Zabbix" alt="Zabbix" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/16%20Prometheus.png" title="Prometheus" alt="Prometheus" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/17%20Grafana.png" title="Grafana" alt="Grafana" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/18%20Redis.png" title="Redis" alt="Redis" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/19%20Memcached.png" title="Memcached" alt="Memcached" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/20%20Elastic.png" title="Elastic" alt="Elastic" width="60" height="60"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/20%20Logstash.png" title="Logstash" alt="Logstash" width="60" height="60"/>&nbsp;
