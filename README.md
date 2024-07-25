@@ -40,6 +40,7 @@
 </div>
 
 ---
+<div id="header" align="center">
 <h1>
    <img src="https://media.tenor.com/Zb_1QeHyHBAAAAAi/hva-hogeschool-van-amsterdam.gif" width="45px"/>
    Выполненые задания по программе обучения
@@ -220,6 +221,7 @@
 </details>
 
 ### [Дипломная работа](https://github.com/tverdyakov/diplom_tverdyakov-sys-20/blob/main/README.md)
+</div>
 
 <div id="header" align="center">   
 <h1>
