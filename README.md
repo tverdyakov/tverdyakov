@@ -39,7 +39,7 @@
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/icons/26%20PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;  
 </div>
 
-## Выполненые задания по программе обучения
+## Выполненые задания по программе обучения.
 
 <details>
 <summary>Модуль №01. IT-системы и операционная система Linux Linux</summary>
@@ -216,13 +216,15 @@
 </details>
 
 ### [Дипломная работа](https://github.com/tverdyakov/diplom_tverdyakov-sys-20/blob/main/README.md)
- 
+
+<div id="header" align="center">  
 <h2>
    <img src="https://media.tenor.com/XhmCXSDrE68AAAAj/i-have-the-proclamation-hunter-engel.gif" width="50px"/>
-   Документы подтверждающие мои навыки
+   Документы подтверждающие мои навыки.
  </h2>
 
 ### Диплом
+
 <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Diploma/1.png" width="700" height="495"/>&nbsp;
 <details>
 <summary>Приложение к диплому</summary>
@@ -235,6 +237,8 @@
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/3.0.png" width="400" height="282"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/4.0.png" width="400" height="282"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/7.0%20-%208.0.png" width="400" height="282"/>&nbsp;
+  <details>
+  <summary>Остальные 9 сертификатов</summary>
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/9.0.png" width="400" height="282"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/6.0.png" width="400" height="282"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/5.0.png" width="400" height="282"/>&nbsp;
@@ -244,6 +248,7 @@
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/13.0.png" width="400" height="282"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/1.0.png" width="400" height="282"/>&nbsp;
   <img src="https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Certificates/2.0.png" width="400" height="282"/>&nbsp;
+  </details>
 
 # Спасибо за внимание! Хорошего дня!
-
+</div>  
